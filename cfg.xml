@@ -3566,7 +3566,7 @@ https://www.sberbank.ru/dl/jc/psi/index.html?channel=
 </node>
 <node id="mobile.sberbank.ru">
 <pushAlertEnabled>true</pushAlertEnabled>
-<efsMobileBank>true</efsMobileBank>
+<efsMobileBank>false</efsMobileBank>
 </node>
 <node id="ift-node5-mp.testonline.sberbank.ru">
 <efsMobileBank>true</efsMobileBank>
