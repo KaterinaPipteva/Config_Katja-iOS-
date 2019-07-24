@@ -12152,7 +12152,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 					<forcedHistoryQuery>false</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12200,7 +12200,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 					<forcedHistoryQuery>false</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12248,7 +12248,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 					<forcedHistoryQuery>false</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12296,7 +12296,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 					<forcedHistoryQuery>false</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12345,7 +12345,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 					<forcedHistoryQuery>false</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12394,7 +12394,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
 					<forcedHistoryQuery>false</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
