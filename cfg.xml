@@ -11954,8 +11954,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 		<param name="PushPermissions" description="единый стек параметров для push">
 			<type>list</type>
 			<pushGlobalSearchByKeywords>true</pushGlobalSearchByKeywords>
-			<pushHistoryHeadBatchSize>30</pushHistoryHeadBatchSize>
-			<pushHistoryScrollBatchSize>15</pushHistoryScrollBatchSize>
+			<pushHistoryHeadBatchSize>5</pushHistoryHeadBatchSize>
+			<pushHistoryScrollBatchSize>2</pushHistoryScrollBatchSize>
 			<countFbQualityDemonstration>5</countFbQualityDemonstration>
 			<fbQualityPercentEnough>90</fbQualityPercentEnough>
 			<fbEqualCount>false</fbEqualCount>
@@ -11966,8 +11966,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<getMessageHistoryRequestEnabled>true</getMessageHistoryRequestEnabled>
 					<MFMSMessageRequestType>2</MFMSMessageRequestType>
 					<MessagesWithExpired>false</MessagesWithExpired>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NotificationSettingsOwn>true</NotificationSettingsOwn>
 					<showNewAttributesInPushContent>true</showNewAttributesInPushContent>
 					<showUniversalPushNotification>true</showUniversalPushNotification>
@@ -12007,8 +12007,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>false</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12055,8 +12055,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12103,8 +12103,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12151,8 +12151,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12199,8 +12199,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12247,8 +12247,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12295,8 +12295,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12344,8 +12344,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12393,8 +12393,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12442,8 +12442,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12490,8 +12490,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12538,8 +12538,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12587,8 +12587,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
@@ -12635,8 +12635,8 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 					<newAlertWhenTPUActivate>true</newAlertWhenTPUActivate>
 					<reactivateMainPushNotifications2>true</reactivateMainPushNotifications2>
 					<transactionNewTutorialAvailable>true</transactionNewTutorialAvailable>
-					<forcedHistoryQuery>true</forcedHistoryQuery>
-					<forcedHistoryQueryIfNoHistory>true</forcedHistoryQueryIfNoHistory>
+					<forcedHistoryQuery>false</forcedHistoryQuery>
+					<forcedHistoryQueryIfNoHistory>false</forcedHistoryQueryIfNoHistory>
 					<NewNotificationsListFilter>true</NewNotificationsListFilter>
 					<tutorialAboutAutomaticTransferTPUSettings>true</tutorialAboutAutomaticTransferTPUSettings>
 					<NewNotificationsList>true</NewNotificationsList>
