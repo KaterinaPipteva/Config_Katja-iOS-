@@ -10769,7 +10769,7 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/CarLoansRus.json
 			<pair id="sendFeedbackAfterTpuDisable">true</pair>
 			<pair id="FeedbackIntputEnabled">true</pair>
 			<pair id="HistoryDepositMBOperationsDetails">true</pair>
-			<pair id="notificationTriggerPLAvailable">true</pair>
+			<pair id="notificationTriggerPLAvailable">false</pair>
 			<pair id="newTpuPlugScenarioAvailable">false</pair>
 			<pair id="isNewFlowTPUAvailable">false</pair>
 			<pair id="pushHistoryRequestPrelogin">true</pair>
